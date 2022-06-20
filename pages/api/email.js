@@ -15,14 +15,14 @@ export default async function handler(req, res) {
             port: 587,
             auth: {
                 user: 'khushboo7324@gmail.com',
-                pass: 'dqbjxlogyheddglb',
+                pass: '@09765K',
             },
         })
 
         await transporter.sendMail({
-            from: user,
-            to: user,
-            subject: sender,
+            from: req.body.email,
+            to: 'khushboo7324@gmail.com',
+            subject: 'Message received from ${senderName}',
             html: `<p>Nome: ${senderName}</p>
             <p>Email: ${sender}</p><br>
             <h3>${messageContent}</h3>`
