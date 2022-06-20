@@ -36,13 +36,13 @@ export default function Footer() {
                            When I completed my early education, I had three major areas of interest Humanities, Entrepreneurship, and Computer Science.
                            Crazy! Isn't it? However, I decided to pursue a bachelor's degree in computer science. 
                            Talking about my region, women aren’t encouraged to pursue a technical degree, but I have put in my best efforts
-                           from the early stages to gain admission to one of the finest and most prestigious technical institutes in India.</br>
+                           from the early stages to gain admission to one of the finest and most prestigious technical institutes in India.
                         </p>
-                        <p>As soon as I joined college, I tried my level best to advance my career in the field of computer science.</br></p>
+                        <p>As soon as I joined college, I tried my level best to advance my career in the field of computer science.</p>
                        
                         <p>I faced various hardships and struggled with career development due to a lack of guidance and mentorship.
                            But my passion for computer science led me to expand my horizons, I connected with various people across 
-                           the globe through LinkedIn, Joined various communities that empower young minds in computer science.</br>
+                           the globe through LinkedIn, Joined various communities that empower young minds in computer science.
                         </p>
                         <p>I have always believed in the power of community. I have volunteered myself to various communities such as
                            Women Who Code Delhi, Gilrscript Tech, Lean In@NIT Hamirpur, App Team NITH, and others that empower, mentor,
@@ -51,7 +51,7 @@ export default function Footer() {
                            the same hurdles. I am connected with tech communities on Linkedin and twitter, I follow the contents.
                            I am enthusiast of learning new technologies and have strong interest in emerging fields of AR/VR, Cybersecurity,
                            Web and App developed using awesome frameworks like vanilla.js, Next.js. I love participating in hackathons and provide
-                           creative solutions of the challenging themes.</br> 
+                           creative solutions of the challenging themes. 
 
                             
                         </p>
