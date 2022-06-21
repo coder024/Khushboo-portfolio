@@ -11,11 +11,11 @@ export default async function handler(req, res) {
         const messageContent = req.body.content
 
         let transporter = nodemailer.createTransport({
-            host: 'gmail',
+            host: 'smtp.gmail.com',
             port: 587,
             auth: {
                 user: 'khushboo7324@gmail.com',
-                pass: '@09765K',
+                pass: 'dqbjxlogyheddglb',
             },
         })
 
